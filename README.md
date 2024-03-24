@@ -8,9 +8,9 @@ Windows、Linux、Software、Game Collect
 二、进度
 ====================================================
 该计划为一个非常漫长的计划，具体进度可以查看对应文件夹目录下的表格文件 下载方式为百度网盘及115网盘，资源均为同步更新
-计划整理：
-操作系统：包含Windows 1.0 、Windows 95、Windows Codename "Nashville"、Windows 98、Windows Me 、 Windows NT 3.x、Windows NT 4、Windows Codename "Neptune"、Windows Home Server、Windows Home Server 2011.... 
-历史软件：包含360安全卫士、腾讯软件、金山软件、Microsoft软件、瑞星软件、江民杀毒软件、迅雷、豪杰超级解霸、WinZip、Winamp......
+<br/><br/><b>计划整理：</b>
+<br/>操作系统：包含Windows 1.0 、Windows 95、Windows Codename "Nashville"、Windows 98、Windows Me 、 Windows NT 3.x、Windows NT 4、Windows Codename "Neptune"、Windows Home Server、Windows Home Server 2011.... 
+<br/><br/>历史软件：包含360安全卫士、腾讯软件、金山软件、Microsoft软件、瑞星软件、江民杀毒软件、迅雷、豪杰超级解霸、WinZip、Winamp......
 
 三、感谢与支持
 ====================================================
@@ -18,13 +18,13 @@ Windows、Linux、Software、Game Collect
 
 四、下载地址
 ====================================================
-[操作系统]
-百度云链接：https://pan.baidu.com/s/1nvOcHUL 
-115网盘链接：https://115.com/s/sw61eug3wcq?password=pa39
+[操作系统]<br/>
+<br/>百度云链接：https://pan.baidu.com/s/1nvOcHUL 
+<br/>115网盘链接：https://115.com/s/sw61eug3wcq?password=pa39
 
-[历史软件]
-百度云链接：https://pan.baidu.com/s/1OXzjUIG6tvGwC4YxD3EOAg?pwd=8888 
-115网盘链接：https://115.com/s/sw6195k3wcq?password=nf45
+[历史软件]<br/>
+<br/>百度云链接：https://pan.baidu.com/s/1OXzjUIG6tvGwC4YxD3EOAg?pwd=8888 
+<br/>115网盘链接：https://115.com/s/sw6195k3wcq?password=nf45
 
 
 
